@@ -1,0 +1,2 @@
+# joshblaz.com
+Github Pages.
