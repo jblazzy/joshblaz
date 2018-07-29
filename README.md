@@ -1,2 +1,1 @@
-### Josh Blaz
-You made it.
+Hello, world.
