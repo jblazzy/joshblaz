@@ -1,4 +1,4 @@
 <a href="https://www.linkedin.com/in/joshblaz/">
-   <img src="http://www.lexingtonsc.org/images/blog/2017/08-Aug/Linkedin%20PRINT-01.png?Action=thumbnail&Width=500&algorithm=fill_proportional">
+   <img src="https://www.shareicon.net/download/2017/06/28/888033_logo.ico">
 </a>
 
