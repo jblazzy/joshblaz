@@ -1,3 +1,3 @@
 <a href="https://www.linkedin.com/in/joshblaz/">
-   <img src="https://blog.invoiceberry.com/wp-content/uploads/2015/08/LinkedIn.png">
+   <https://www.shareicon.net/download/2017/06/30/888064_logo_512x512.png">
 </a>
