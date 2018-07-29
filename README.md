@@ -1,3 +1,3 @@
 <a href="https://www.linkedin.com/in/joshblaz/">
-   <https://www.shareicon.net/download/2017/06/30/888064_logo_512x512.png">
+   <http://www.lexingtonsc.org/images/blog/2017/08-Aug/Linkedin%20PRINT-01.png?Action=thumbnail&Width=500&algorithm=fill_proportional">
 </a>
