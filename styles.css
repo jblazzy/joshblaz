@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body class="w3-content" style="max-width:1300px">
+
+<!-- First Grid: Logo & About -->
+<div class="w3-row">
+  <div class="w3-half w3-black w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+      <h1>Josh Blaz</h1>
+      <h5>Computer Science Major<h5>
+      <h5>Denison University <h5>
+    </div>
+    <div class="w3-padding-64">
+      <a href="#" class="w3-button w3-black w3-block w3-hover-blue-grey w3-padding-16">Home</a>
+      <a href="#work" class="w3-button w3-black w3-block w3-hover-teal w3-padding-16">My Work</a>
+      <a href="#work" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">Resume</a>
+      <a href="#contact" class="w3-button w3-black w3-block w3-hover-brown w3-padding-16">Contact</a>
+    </div>
+  </div>
+  <div class="w3-half w3-blue-grey w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-center">
+      <h1>About Me</h1>
+      <img src="https://scontent-iad3-1.xx.fbcdn.net/v/t31.0-8/27907862_1194612800668990_9141496259190558805_o.jpg?_nc_cat=0&oh=f5bb6936f528310b77b84c0c9b2adbd5&oe=5C0BD123" class="w3-margin w3-circle" alt="Person" style="width:50%">
+      <div class="w3-left-align w3-padding-large">
+        <p>Scholar-Athlete at Denison University graduating in May 2019. </p>
+        <p>Interests include Security, Networking, Data Analysis, and Sabermetrics. </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid: Work & Resume -->
+<div class="w3-row">
+  <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+    <div class="w3-padding-64">
+      <h2>Skills</h2>
+      <p>Languages: Python [Adv.], R [Adv.], <br> SQL [Adv.], C [Adv.],<br> C++ [Adv.], HTML [Intermediate]<p>
+      <p>Applications: Tableau [Adv.], Wireshark,<br> VirtualBox , LaTex, Logisim <p>
+      <p>Other: Socket Programming<p>
+    </div>
+    </a>
+   		<a href="https://github.com/jblazzy">
+   		<img src="http://www.iconninja.com/files/8/221/79/github-icon.png">
+	</a>
+  </div>
+  
+  <div class="w3-half w3-indigo w3-container" style="min-height:800px">
+    <div class="w3-padding-64 w3-center">
+      <h2>Resume</h2>
+      <p>A draft from my CV</p>
+      <div class="w3-container w3-responsive">
+        <table class="w3-table">
+          <tr>
+            <th>Year</th>
+            <th>Title</th>
+            <th>Where</th>
+          </tr>
+          
+          <tr class="w3-white">
+            <td>2015-</td>
+            <td>Degree in Computer Science (2019)</td>
+            <td>Denison University</td>
+          </tr>
+          
+          <tr>
+            <td>2017-</td>
+            <td>Color Commentator</td>
+            <td>Denison University</td>
+          </tr>
+          
+          <tr class="w3-white">
+          	<td>Spring 2018</td>
+            <td>Data Analytics Consultant, Men's Basketball Team</td>
+            <td>Denison University</td>
+          </tr>
+          
+          <tr>
+            <td>Summer 2017</td>
+            <td>Cybersecurity Engineer</td>
+            <td>DLT Solutions, Dulles, VA</td>
+          </tr>
+          
+          <tr class="w3-white">
+            <td>Summer 2016</td>
+            <td>Legislative Intern (Guam Delegation)</td>
+            <td>U.S. House of Representatives, Washington, DC</td>
+          </tr>
+          
+        </table>
+        	<br>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Third Grid: Swing By & Contact -->
+<div class="w3-row" id="contact">
+  <div class="w3-half w3-dark-grey w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+      <h1>Relevant Coursework</h1>
+      <p>Computer Networking<p>
+      <p>Computer Systems<p>
+      <p>Data Structures<p>
+      <p>Data Systems<p>
+      <p>Natural Language Processing<p>
+      <p>Practicum in Data Analytics<p>
+      <p>Computer Engineering<p>
+      <p>Software Engineering<p>
+      <p>Foundational Proofs of Computer Science<p>
+      <p>Multivariable Calculus<p>
+      <p>Applied Statistics<p>
+    </div>
+  </div>
+  <div class="w3-half w3-red w3-container w3-center" style="height:700px">
+        <div class="w3-padding-64">
+      <h1>Contact</h1>
+    </div>
+    <div class="w3-padding-64">
+      <h3>Granville, Ohio, USA</h3>
+      <h3>Denison University </h3>
+      <h3>blaz_j1@denison.com</h3>
+      <p>LinkedIn below.<p>
+    </div>
+  </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-black w3-padding-16 w3-center"> 
+  <a href="https://www.linkedin.com/in/joshblaz/">
+   <img src="http://files.softicons.com/download/social-media-icons/ios-8-style-social-media-icons-by-design-bolts/png/96x96/Linkedin-Icon.png">
+</footer>
+</body>
+</html>
